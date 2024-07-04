@@ -1,0 +1,27 @@
+PROVEEDORES
+
+ID: 0
+Nombre: panaderia
+Telefono: 0414
+
+ID: 1
+Nombre: finca
+Telefono: 0277
+
+ID: 2
+Nombre: luis
+Telefono: 0232300
+
+ID: 3
+Nombre: Angel
+Telefono: 04148756
+
+PRODUCTOS EN STOCK MINIMO
+
+ID Proveedor: 0
+ID: 0
+Descripcion: queso
+Precio: 100
+Stock: 10
+Stock minimo: 10
+

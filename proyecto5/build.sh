@@ -1,0 +1,3 @@
+#!/bin/bash
+
+clang++ -Wall -Wextra -std=c++11 *.cpp -o main -lm -lSDL3 -lSDL3_ttf

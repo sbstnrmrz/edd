@@ -1,0 +1,14 @@
+1. Algoritmos de búsqueda y recorrido
+-Búsqueda en Internet 
+-Navegación GPS 
+-Redes sociales 
+
+2. Optimización de problemas
+-Asignación de recursos
+-Planificación de rutas
+-Programación de tareas
+
+3. Aprendizaje automático: Los grafos se pueden utilizar para representar y aprender a partir de datos estructurados, como:
+-Redes neuronales: Los grafo
+-Recomendación de sistemas: 
+-Análisis de redes sociales:
